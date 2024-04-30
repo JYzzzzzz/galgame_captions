@@ -1,0 +1,4 @@
+
+https://console.bce.baidu.com/ai/#/ai/ocr/overview/index
+
+若要开通付费，建议选择“按量后付费”
